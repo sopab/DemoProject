@@ -21,5 +21,5 @@ public class Main {
 	public static int calculator_mul(int a, int b){
 		int result = a*b;
 		return result;
-	}
+	} 
 }
